@@ -3,7 +3,7 @@ id: chocurv
 name: chocurv
 type: shield
 url: https://github.com/fhirworx/chocurv
-requires: [seeed_xiao_ble]
+requires: [seeeduino_xiao_ble]
 features:
   - keys
 siblings:

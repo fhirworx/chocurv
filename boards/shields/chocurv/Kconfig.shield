@@ -1,5 +1,5 @@
 config SHIELD_CHOCURV_LEFT
-    def_bool $(shields_list_contains,chocurv)
+    def_bool $(shields_list_contains,chocurv_left)
 
 config SHIELD_CHOCURV_RIGHT
-    def_bool $(shields_list_contains,chocurv)
+    def_bool $(shields_list_contains,chocurv_right)
